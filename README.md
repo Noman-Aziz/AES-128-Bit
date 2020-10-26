@@ -1,4 +1,4 @@
-# AES-128-Bit-
+# AES-128-Bit
 Advanced Encryption Standard 128-Bit Implemented in C++
 
 This is a Microsoft Visual Studio Project and Can be Imported into it.
