@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\Mani\source\repos\AES\Debug\gtest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="ExpandKeyTest.ExpandKeyTest" Duration="1" />
+    <TestDuration Test="AddRoundKeyTest.AddRoundKey" Duration="1" />
+    <TestDuration Test="SubBytesTest.SubTest" Duration="1" />
+    <TestDuration Test="ShiftRowTest.SRTest" Duration="1" />
+    <TestDuration Test="MixColumnTest.MixColumnTest" Duration="1" />
+    <TestDuration Test="EncryptionTest.Encrypt" Duration="1" />
+    <TestDuration Test="ReverseByteSubstitution.ReverseSubstitionTest" Duration="1" />
+    <TestDuration Test="ReverseShiftRows.ReverseShiftRowsTest" Duration="1" />
+    <TestDuration Test="ReverseMixColumns.ReverseMixColumnsTest" Duration="1" />
+    <TestDuration Test="DecrpytTest.Decryption" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
